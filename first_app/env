@@ -1,0 +1,8 @@
+SECRET_KEY = 'django-insecure-t1htu$f1xl)_6dtn0wj^#7gx@jcpv6m9^j9k&bq!*qyx(^@idt'
+debug = True
+DB_NAME=my_django_db
+DB_USER=root
+DB_password=my_password
+DB_host=127.0.0.1
+DB_PORT=3306'=
+ALLOWED_HOSTS = [127.0.0.1, localhost]
